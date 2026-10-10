@@ -1,0 +1,12 @@
+# Only reviewed website files and maintenance instructions are public.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+
+# Keep private source material out of the website folder too.
+docs/**/*.pdf
+docs/**/*.docx
+docs/**/*.xlsx
+docs/**/.DS_Store
+docs/**/Thumbs.db
